@@ -1,0 +1,26 @@
+postup:
+otoč desku přesně podle obrázku "image11".
+přidělej tlačítka přesně podle obrázku "image11".
+
+zapájej tlačítka.
+zkus, jestli krabička dobře sedí na tlačítka
+podle podle obrázku "image22" připájej drát (je to GND společná pro všechny tlačítka).
+
+vezmi polovinu D-SUB kabelu a odizoluj cca 5cm izolace (image44).
+u každého jednotlivého vodiče odizoluj konec (stačí 3mm), namoč do kalafuny a pocínuj.
+potom jednotlivé vodiče napájej podle barev podle image55.
+
+barvy vodičů:
+up - modrá
+down - bílá
+left - hnědá
+right - červená
+button2 - orandžová
+Button1 - žlutá
+GND - černá
+ADC - šedá
++5V - zelená
+Obal - fialová (GND na desce)
+
+zkus, zda všechny tlačítka reagují.
+smontuj krabičku pomocí vrutů 2,2x9,5 (nepřetáhnout vruty!)

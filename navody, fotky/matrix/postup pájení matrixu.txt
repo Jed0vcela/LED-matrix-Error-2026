@@ -1,0 +1,36 @@
+pokud si nejsi jistý, raději se zeptej, nebo koukni na ukázkovou desku, ze které se to dá "okopírovat"
+
+postup:
+zapájet SMD kondenzátory a odpory na vrchní straně (ty malé s dvěma vývody) (je jedno, jak jsou otočené).
+poté zapájet čipy na vrchní stranu - !!bacha na otočení čipů!!
+tranzistory (bacha, jsou tu dva typy) (ty malé se třema vývody).
+
+--otoč desku--
+
+zapájet SMD kondenzátory a odpory.
+poté zapájet čipy a regulátor - !!bacha na otočení!!
+
+--otoč desku--
+
+teprve po zapájení všech SMD součástek napájej Raspberry Pico
+zkontroluj, zda nejsou někde zkraty, nebo špatné spoje - je lepší se zeptat, než odpálit součástky a muset to opravovat.
+skoč k volnému vedoucímu na nahrání testovacího kódu (teď se to dá ještě jednoduše opravovat, ale musíme nejdřív najít případnou chybu).
+už teďka by měl fungovat celý LED displej - pokud ne, teď by se měl opravit.
+jakmile to funguje s testovacím programem, začni pájet THT součástky vždy od nejmenší, u kondenátoru, IR LED a fotodiod bacha na otočení.
+IR LED a fotodioda vypadají dost podobně + není na první pohled jasné, jak mají být otočené.
+
+vyzkoušet všechny součásti desky (pokud cokoli nefunguje, říct, opravíme):
+promačkat všechny tlačítka a zkusit gamepad.
+zkusit fotodiodu (po přikrytí rukou by se mělo v konzoli ukazovat nižší napětí).
+zkusit příjem IR signálu (třeba na to vysílat mobilem, nebo ovladačem televize).
+zkusit IR vysílač (okem to není vidět, ale kamera mobilu by to měla trošku vidět).
+zkusit multiplayer konektory pomocí připojení výstupu přímo na vstup (viz fotka).
+zkusit napájení z síťového adaptéru.
+
+když vše funguje:
+přidrátovat rotační enkodér pomocí 3 drátů, viz fotky.
+zkusit rotační enkodér (otáčet i zmáčknout).
+
+když funguje:
+hoď na to krytky a pomocí vrutů 2,2 x 9,5 mm připevnit - bacha, neutáhnout moc (plast se lehce strhne)
+zkus displej s krytkama
