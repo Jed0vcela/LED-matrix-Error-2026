@@ -52,7 +52,7 @@ upravovat): **[ZDROJOVE_KODY.md](dokumentace%20CZ/ZDROJOVE_KODY.md)**
 1. **Nainstaluj Thonny** (IDE, kterým se kód MicroPythonu píše/nahrává do
    zařízení): [thonny.org](https://thonny.org/)
 2. **Nahraj firmware do zařízení**: 
-   [Jak nahrát soubory do zařízení (YouTube)]([https://www.youtube.com/](https://youtu.be/NCa7N6zXSKU?si=G6rsxXgdZRCBtUNG))
+   [Jak nahrát soubory do zařízení (YouTube)](https://youtu.be/NCa7N6zXSKU?si=G6rsxXgdZRCBtUNG)
 3. Pokud si stavíš vlastní zařízení od nuly, zapoj hardware podle
    **[HW.md](dokumentace%20CZ/HW.md)**.
 4. Pro hry pro dva hráče propoj UART druhého zařízení podle
