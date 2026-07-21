@@ -50,9 +50,8 @@ upravovat): **[ZDROJOVE_KODY.md](dokumentace%20CZ/ZDROJOVE_KODY.md)**
 
 1. **Nainstaluj Thonny** (IDE, kterým se kód MicroPythonu píše/nahrává do
    zařízení): [thonny.org](https://thonny.org/)
-2. **Nahraj firmware do zařízení**: 🎥 *video návod se ještě připravuje —
-   zatím jen placeholder odkaz:*
-   [Jak nahrát soubory do zařízení (YouTube)](https://www.youtube.com/)
+2. **Nahraj firmware do zařízení**: 
+   [Jak nahrát soubory do zařízení (YouTube)]([https://www.youtube.com/](https://youtu.be/NCa7N6zXSKU?si=G6rsxXgdZRCBtUNG))
 3. Pokud si stavíš vlastní zařízení od nuly, zapoj hardware podle
    **[HW.md](dokumentace%20CZ/HW.md)**.
 4. Pro hry pro dva hráče propoj UART druhého zařízení podle
@@ -84,16 +83,3 @@ verze zůstanou zdokumentované i po přidání novějších. Mezi jednotlivými
 **v1.0** — kompletní dokumentace her a nastavení je v
 [FW_v1.0.md](dokumentace%20CZ/FW/v1.0/FW_v1.0.md).
 
-## Co by v téhle dokumentaci ještě mohlo přibýt
-
-Pár věcí, co tenhle repozitář zatím nemá — radši sem napsané narovinu, než
-abych si je vymýšlel:
-
-- Schéma/nákres zapojení (obrázek) — piny GP0–GP28 jsou teď zdokumentované
-  textově v [HW.md](dokumentace%20CZ/HW.md), ale žádný nákres/schéma k tomu
-  zatím není
-- Seznam součástek (BOM)
-- Fotky nebo krátké video zařízení v akci (kromě fotek ručního zapojení
-  enkodéru, které patří do [`obrazky/`](dokumentace%20CZ/obrazky/))
-- Soubor `LICENSE`, pokud má být repozitář veřejný/volně použitelný
-- Changelog, až bude na porovnání verze v1.1
