@@ -4,7 +4,7 @@ Kapesní zařízení s LED maticí 32×16, postavené na Raspberry Pi Pico (RP20
 s MicroPythonem. Samotné zařízení nabízí přes 20 vestavěných her a
 pomůcek; víc zařízení lze propojit řetězcem po UART pro hry pro dva hráče
 a sdílené režimy. K desce lze navíc připojit externí gamepad.
-**dokumentace CZ/IMG_20260721_112653.jpg**
+![popis obrázku](dokumentace CZ/IMG_20260721_112653.jpg)
 
 ## Co to umí
 
