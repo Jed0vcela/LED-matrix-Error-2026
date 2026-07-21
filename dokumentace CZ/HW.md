@@ -3,10 +3,7 @@
 # Hardwarová dokumentace
 
 Popisuje fyzické zapojení, návrhové nástroje a dvě "chytré" periferie (IR
-přijímač a fotodioda). Kompletní zapojení pinů RP2040 je teď potvrzené (viz
-tabulka níže) — co v dokumentu ještě chybí (schéma, BOM, přesné napájení
-apod.) je vypsané v sekci [Co v tomhle dokumentu chybí](#co-v-tomhle-dokumentu-chybí)
-na konci.
+přijímač a fotodioda).
 
 ## Přehled
 
@@ -229,9 +226,6 @@ jasně vidět. Podrobnější popis viz
 
 ## Co v tomhle dokumentu chybí
 
-- Zatím žádný schéma/nákres zapojení (kromě fotek ručního zapojení enkodéru
-  v [`obrazky/`](obrazky/)).
-- Chybí seznam součástek (BOM).
 - Chybí poznámky ke krabičce/mechanické montáži.
 - Chybí přesná specifikace napájení (napětí/konektor napájecího zdroje celé
   desky).
